@@ -1,5 +1,5 @@
 # ТЗ для хакатона
-### Цель: Разработать бота для ставок на киберспорт dijital noice.
+### Цель: Разработать бота для ставок на киберспорт `digital noise`.
 Разрешённые языки: <span style="color:#3572A5">python</span>, <span style="color:#f1e05a">js</span>, <span style="color:#3178C6">ts</span>, <span style="color:#F34B7D">c++</span>, <span style="color:#DEA584">rust</span>, <span style="color:#B07219">java</span>, <span style="color:#A97BFF">kotlin</span>.
 
 Бот для `telegram` и/или `ВК`(за реализацию обоих дополнительные баллы).
@@ -16,7 +16,7 @@
 - пользователь должен иметь возможность узнать какие сейчас матчи идут и иметь возможность сделать ставку.
 
 > [!NOTE]
-> На digital noice, есть команды по `CS 2`, `Dota 2`, `Team Fortress 2`
+> На `digital noice`, есть команды по `CS 2`, `Dota 2`, `Team Fortress 2`
 
 Можно сделать админ панель в виде сайта или отдельных кнопок в боте(у администратора).
 
