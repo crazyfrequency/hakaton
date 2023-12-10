@@ -1,4 +1,4 @@
-# ТЗ для хакатона
+# ТЗ для хакатона PSUTI+
 ### Цель: Разработать бота для ставок на киберспортивные турниры `digital noise eSports`.
 Разрешённые языки: <span style="color:#3572A5">python</span>, <span style="color:#f1e05a">js</span>, <span style="color:#3178C6">ts</span>, <span style="color:#F34B7D">c++</span>, <span style="color:#DEA584">rust</span>, <span style="color:#B07219">java</span>, <span style="color:#A97BFF">kotlin</span>.
 
